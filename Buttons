@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Buttons</title>
+    </head>
+    <body>
+        <button style="font-size: 25px; border-radius:25px; color:aqua; background-color: rgba(0, 112, 50, 0.932); border-color: rgb(1, 114, 143);">click me</button>
+    </body>
+</html>
